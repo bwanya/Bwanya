@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a Bioinformatician currently doing transcriptomics & exposome research. 
+
+## Skills and Experience 
+
+* 🐍 Python
+* 🐧 Bash
+* 🥧 R 
 <!--
 **bwanya/Bwanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
