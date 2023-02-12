@@ -5,8 +5,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&layout=compact&langs_count=10)](https://github.com/bwanya/github-readme-stats)
-
+<a href="https://github.com/bwanya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bwanya&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/bwanya/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bwanya&repo=convoychat" />
+</a>
 
 
 
