@@ -5,7 +5,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya)](https://github.com/bwanya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&layout=compact)](https://github.com/bwanya/github-readme-stats)
+
+
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=bwanya&color=green)
