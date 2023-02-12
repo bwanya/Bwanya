@@ -9,11 +9,6 @@
 
 
 
-<p align="center"> 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&layout=compact&theme=gotham&hide_border=true&hide=css,scss,jupyter%20notebook,Handlebars,Makefile,Less&langs_count=10" width="50%">
-  <img src="https://github-profile-trophy.vercel.app/?username=bwanya&theme=onestar&no-frame=true&column=3&row=2&">
-</p>
-
 
 
 
