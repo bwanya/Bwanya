@@ -5,7 +5,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&theme=chartreuse-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&theme=chartreuse-dark&layout=compact&langs_count=8)
 
 <p align="center">
  <br>
