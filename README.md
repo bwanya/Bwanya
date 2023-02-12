@@ -13,7 +13,7 @@
  <img width="52px" alt="GitHub Logo" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg"></a>
  
   <a href="https://www.researchgate.net/profile/Bwanya-Brian">
- <img width="52px" alt="ResearchGate Logo" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg"></a>
+ <img width="52px" alt="ResearchGate Logo" src="[https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/researchgate.svg)"></a>
 <p align="center"><img src="https://profile-counter.glitch.me/{bwanya}/count.svg" alt="bwanya :: Visitor's Count" /></p>
 
 
