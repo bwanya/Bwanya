@@ -2,8 +2,9 @@
 
 ### My GitHub Statistics
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwanya&show_icons=true&theme=blue-green&hide_border=true&hide_title=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bwanya&theme=android-dark)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bwanya&theme=android-dark)](https://git.io/streak-stats)
 
 ### Top Languages
 
