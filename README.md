@@ -3,12 +3,6 @@
 ### My GitHub Statistics
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwanya&show_icons=true&theme=blue-green&hide_border=true&hide_title=true)
 
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya&theme=chartreuse-dark&layout=compact&langs_count=8)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bwanya)
-
 <p align="center">
  <br>
  <br>
