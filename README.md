@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi there 👋; Second+line+of+text)](https://git.io/typing-svg)
 I am a Bioinformatician currently doing transcriptomics & exposome research. 
 
 ## Skills and Experience 
