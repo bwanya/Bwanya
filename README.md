@@ -13,6 +13,6 @@
  <img width="52px" alt="GitHub Logo" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg"></a>
 <p align="center"><img src="https://profile-counter.glitch.me/{bwanya}/count.svg" alt="bwanya :: Visitor's Count" /></p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwanya)](https://github.com/anuraghazra/github-readme-stats)
 
 
