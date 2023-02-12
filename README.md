@@ -6,7 +6,7 @@
 <p align="center">
  <br>
  <br>
-<a href="https://www.linkedin.com/in/BwanyaBrian/">
+<a href="https://www.linkedin.com/in/bwanya-brian/">
  <img width="50px" alt="LinkedIn Logo" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
  <a href="https://github.com/bwanya">
