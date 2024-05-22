@@ -1,4 +1,4 @@
-Bioinformatician Specializing in Transcriptomics and Machine Learning
+# Bioinformatician Specializing in Transcriptomics and Machine Learning
 🔬 Transcriptomics Analysis | 🤖 Machine Learning for Chemical Toxicity | 📚 Teaching & Mentoring
 
 Welcome to my GitHub profile! I am a passionate bioinformatician dedicated to unraveling the complexities of biological data through advanced computational techniques. My work primarily revolves around:
