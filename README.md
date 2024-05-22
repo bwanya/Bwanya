@@ -3,9 +3,15 @@ I'm a bioinformatician dedicated to unraveling the complexities of biological da
 
 **Transcriptomics Analyses**: I specialize in analyzing RNA-Seq data to understand gene expression patterns, differential expression, and functional annotation. My goal is to decipher the biological significance and regulatory mechanisms underlying various conditions and treatments.
 
-**Machine Learning Predictions of Chemical Toxicity**: Leveraging machine learning algorithms, I predict chemical toxicity from gene expression data. By integrating computational methods and biological insights, I aim to contribute to safer chemical development and environmental health.
+**Machine Learning Predictions of Chemical Toxicity**: I leverage machine learning algorithms, to predict chemical toxicity from gene expression data. By integrating computational methods and biological insights, I aim to contribute towards safer non-animal chemical assessment.
 
 **Teaching and Mentoring**: As an educator, I guide undergraduate and master's students through the fascinating world of bioinformatics. I enjoy sharing my knowledge and experience, helping students to develop their skills in data analysis, programming, and research methodologies.
+
+## Organisations
+
+- Organisations I contribute to:
+[**@Toxicogenomics-Maastricht-University**](https://github.com/Toxicogenomics-Maastricht-University),
+
 
 
 Thank you for visiting my profile!
