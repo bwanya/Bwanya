@@ -1,4 +1,4 @@
-# Hello World! 
+Hello World! 
 I'm a bioinformatician dedicated to unraveling the complexities of biological data through advanced computational techniques. My work primarily revolves around:
 
 **Transcriptomics Analyses**: I specialize in analyzing RNA-Seq data to understand gene expression patterns, differential expression, and functional annotation. My goal is to decipher the biological significance and regulatory mechanisms underlying various conditions and treatments.
