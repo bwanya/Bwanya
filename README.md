@@ -11,7 +11,7 @@ I'm a bioinformatician dedicated to unraveling the complexities of biological da
 ## Organisations
 
 - Organisations I contribute to:
-[**@Toxicogenomics-Maastricht-University**](https://github.com/Toxicogenomics-Maastricht-University),
+[**@Department of Translational Genomics**](https://github.com/TGX-UM),
 [**@pu-bioinformatics**](https://github.com/pu-bioinformatics),
 [**@ontox-maps**](https://github.com/ontox-maps)
 
